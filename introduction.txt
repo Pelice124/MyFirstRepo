@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hello! My name is Pelice Asiedu, and I am currently learning how to use GitHub for my development projects. I have a passion for technology and am excited to improve my coding and version control skills.
+
+I look forward to building exciting projects and collaborating with other developers as I continue to grow on this journey.
