@@ -1,0 +1,1 @@
+One thing I've learned so far is how to create branches, commit changes, and collaborate with pull requests on GitHub. It's making version control much clearer and manageable for me.
