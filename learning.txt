@@ -1,1 +1,2 @@
-One thing I've learned so far is how to create branches, commit changes, and collaborate with pull requests on GitHub. It's making version control much clearer and manageable for me.
+What I have learned from this course is how to use Git and GitHub effectively. I now understand how to create branches, make commits, push changes, and open pull requests to collaborate with others.
+
